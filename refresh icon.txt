@@ -1,0 +1,2 @@
+windows 7 : ie4uinit.exe -ClearIconCache
+windows10 : ie4uinit.exe -show
